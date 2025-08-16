@@ -1,0 +1,14 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Agustín Cosovschi"
+theme = "terminal"
+
+[params]
+  # This changes the big logo text
+  [params.logo]
+    text = "Agustín Cosovschi"
+    # optional: ASCII-style or plain
+    ascii = false  
+
+ 
+
