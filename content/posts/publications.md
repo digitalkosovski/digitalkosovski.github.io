@@ -3,12 +3,14 @@
 
 ## Monographs
 
-* In press (with Pablo Sánchez León) European Perspectives on Transition: A Comparative and Transnational Approach to the History of a Political and Social Concept, Berghahn Books.
-
 * 2024 (with José Luis Aguilar) Nueva historia del comunismo en Europa del Este, Buenos Aires/Madrid, Siglo XXI.
 
 * 2022 Les sciences sociales face à la crise : une histoire intellectuelle de la dissolution yougoslave (1980-1995), Paris: Karthala.
 Collective volumes
+
+## Collective volumes
+
+* In press (with Pablo Sánchez León) European Perspectives on Transition: A Comparative and Transnational Approach to the History of a Political and Social Concept, Berghahn Books.
 
 
 ## Articles in peer-reviewed journals

@@ -17,13 +17,14 @@
       <a href="{{ (index . 0).RelPermalink }}">News</a>
     {{ end }}
 
+    {{ with first 1 (where .Site.RegularPages "File.BaseFileName" "brokers-of-nam") }}
+      <a href="{{ (index . 0).RelPermalink }}">Brokers-of-NAM</a>
+    {{ end }}
+
     {{ with first 1 (where .Site.RegularPages "File.BaseFileName" "contact") }}
       <a href="{{ (index . 0).RelPermalink }}">Contact</a>
     {{ end }}
 
-    {{ with first 1 (where .Site.RegularPages "File.BaseFileName" "brokers-of-nam") }}
-      <a href="{{ (index . 0).RelPermalink }}">Brokers-of-NAM</a>
-    {{ end }}
 
   </nav>
 </div>
